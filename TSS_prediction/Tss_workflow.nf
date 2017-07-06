@@ -18,7 +18,7 @@ sortedBamFile = Channel.from(params.sortedbam)
 outWig = params.outputfolder + "/wigFiles"
 
 /*
-* 1.Preparing.
+* 0.Preparing.
 * Pull docker images.
 */
 process pullImages {
