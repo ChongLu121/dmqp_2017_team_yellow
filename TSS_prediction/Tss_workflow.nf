@@ -36,7 +36,6 @@ process pullImages {
 }
 
 
-
 /*
 * 1.Mapping.
 * Build index-files.
