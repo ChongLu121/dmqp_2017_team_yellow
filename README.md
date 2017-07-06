@@ -8,20 +8,5 @@ Thorsten Bischler, Hock Siew Tan, Kay Nieselt, Cynthia M. Sharma, Differential R
 (http://www.sciencedirect.com/science/article/pii/S1046202315002546)
 
 
-## What is this repo about?
-You can put your whole projects related stuff in here. I suggest that you have a little structure like:
 
-    repo.git
-      |
-      |------ docs
-      |------ src
-      |------ data
-      ...
-      README.md
-      LICENSE
-      
-or similar, to keep you content organized. But be free to create an own structure :)
-
-## How to write proper ```git commit``` messages?
-
-This is a must have to read :) https://chris.beams.io/posts/git-commit/
+![avatar](https://writelatex.s3.amazonaws.com/sqvmkvdrsnbs/uploads/377/14055719/1.JPG)
