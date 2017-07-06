@@ -1,6 +1,6 @@
 # DMQB 2017 team YELLOW
 
-DMQB 2017 Team Green data repository.
+DMQB 2017 Team Yellow data repository.
 
 ## Literature
 
